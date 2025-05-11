@@ -2,9 +2,9 @@
 
 dentro de la carpeta backend-formulario
 
-'''
+```
 node index.js
-'''
+```
 
 correr mongo con
 
